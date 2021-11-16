@@ -1,0 +1,309 @@
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\ParkingManagement\ParkingManagement\bin\Debug\ParkingManagement.exe.config
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\ParkingManagement\ParkingManagement\bin\Debug\ParkingManagement.exe
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\ParkingManagement\ParkingManagement\bin\Debug\ParkingManagement.pdb
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.csprojAssemblyReference.cache
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.Properties.Resources.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.csproj.GenerateResource.cache
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.csproj.CoreCompileInputs.cache
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.exe
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.pdb
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.Admin.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.AddMember.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.RemoveMember.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.UpdateMember.resources
+C:\Users\Rifat\Desktop\c# Project\ref\ParkingManagement\ParkingManagement\bin\Debug\ParkingManagement.exe.config
+C:\Users\Rifat\Desktop\c# Project\ref\ParkingManagement\ParkingManagement\bin\Debug\ParkingManagement.exe
+C:\Users\Rifat\Desktop\c# Project\ref\ParkingManagement\ParkingManagement\bin\Debug\ParkingManagement.pdb
+C:\Users\Rifat\Desktop\c# Project\ref\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.csprojAssemblyReference.cache
+C:\Users\Rifat\Desktop\c# Project\ref\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.AddMember.resources
+C:\Users\Rifat\Desktop\c# Project\ref\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.Admin.resources
+C:\Users\Rifat\Desktop\c# Project\ref\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.RemoveMember.resources
+C:\Users\Rifat\Desktop\c# Project\ref\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.Properties.Resources.resources
+C:\Users\Rifat\Desktop\c# Project\ref\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.UpdateMember.resources
+C:\Users\Rifat\Desktop\c# Project\ref\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.csproj.GenerateResource.cache
+C:\Users\Rifat\Desktop\c# Project\ref\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.csproj.CoreCompileInputs.cache
+C:\Users\Rifat\Desktop\c# Project\ref\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.exe
+C:\Users\Rifat\Desktop\c# Project\ref\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.pdb
+C:\Users\Rifat\Desktop\c# Project\ref\ParkingManagement\ParkingManagement\obj\Debug\DemoCarParking.Login.resources
+C:\Users\Rifat\Desktop\c# Project\ref\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.Manager.resources
+C:\Users\Rifat\Desktop\c# Project\main\ParkingManagement\ParkingManagement\bin\Debug\ParkingManagement.exe.config
+C:\Users\Rifat\Desktop\c# Project\main\ParkingManagement\ParkingManagement\bin\Debug\ParkingManagement.exe
+C:\Users\Rifat\Desktop\c# Project\main\ParkingManagement\ParkingManagement\bin\Debug\ParkingManagement.pdb
+C:\Users\Rifat\Desktop\c# Project\main\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.csprojAssemblyReference.cache
+C:\Users\Rifat\Desktop\c# Project\main\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.AddMember.resources
+C:\Users\Rifat\Desktop\c# Project\main\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.Manager.resources
+C:\Users\Rifat\Desktop\c# Project\main\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.Admin.resources
+C:\Users\Rifat\Desktop\c# Project\main\ParkingManagement\ParkingManagement\obj\Debug\DemoCarParking.Login.resources
+C:\Users\Rifat\Desktop\c# Project\main\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.RemoveMember.resources
+C:\Users\Rifat\Desktop\c# Project\main\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.Properties.Resources.resources
+C:\Users\Rifat\Desktop\c# Project\main\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.UpdateMember.resources
+C:\Users\Rifat\Desktop\c# Project\main\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.csproj.GenerateResource.cache
+C:\Users\Rifat\Desktop\c# Project\main\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.csproj.CoreCompileInputs.cache
+C:\Users\Rifat\Desktop\c# Project\main\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.exe
+C:\Users\Rifat\Desktop\c# Project\main\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.pdb
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\Copy 2\ParkingManagement\ParkingManagement\bin\Debug\ParkingManagement.exe.config
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\Copy 2\ParkingManagement\ParkingManagement\bin\Debug\ParkingManagement.exe
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\Copy 2\ParkingManagement\ParkingManagement\bin\Debug\ParkingManagement.pdb
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\Copy 2\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.csprojAssemblyReference.cache
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\Copy 2\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.AddGuard.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\Copy 2\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.AddMember.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\Copy 2\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.Manager.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\Copy 2\ParkingManagement\ParkingManagement\obj\Debug\DemoCarParking.Login.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\Copy 2\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.RemoveMember.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\Copy 2\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.Properties.Resources.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\Copy 2\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.UpdateMember.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\Copy 2\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.csproj.GenerateResource.cache
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\Copy 2\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.csproj.CoreCompileInputs.cache
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\Copy 2\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.exe
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\Copy 2\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.pdb
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\Copy 2\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.AddManager.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\Copy 2\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.RemoveManager.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\Copy 2\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.RemoveGuard.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\Copy 2\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.UpdateGuard.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\Copy 2\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.UpdateManager.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\Copy 2\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.Admin.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\Final\ParkingManagement\ParkingManagement\bin\Debug\ParkingManagement.exe.config
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\Final\ParkingManagement\ParkingManagement\bin\Debug\ParkingManagement.exe
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\Final\ParkingManagement\ParkingManagement\bin\Debug\ParkingManagement.pdb
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\Final\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.csprojAssemblyReference.cache
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\Final\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.AddManager.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\Final\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.AddMember.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\Final\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.AddGuard.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\Final\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.Admin.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\Final\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.Manager.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\Final\ParkingManagement\ParkingManagement\obj\Debug\DemoCarParking.Login.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\Final\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.RemoveGuard.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\Final\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.RemoveManager.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\Final\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.RemoveMember.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\Final\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.Properties.Resources.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\Final\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.UpdateGuard.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\Final\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.UpdateManager.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\Final\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.UpdateMember.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\Final\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.csproj.GenerateResource.cache
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\Final\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.csproj.CoreCompileInputs.cache
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\Final\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.exe
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\Final\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.pdb
+C:\Users\Rifat\Desktop\c# Project\main 2\ParkingManagement\ParkingManagement\ParkingManagement\bin\Debug\ParkingManagement.exe.config
+C:\Users\Rifat\Desktop\c# Project\main 2\ParkingManagement\ParkingManagement\ParkingManagement\bin\Debug\ParkingManagement.exe
+C:\Users\Rifat\Desktop\c# Project\main 2\ParkingManagement\ParkingManagement\ParkingManagement\bin\Debug\ParkingManagement.pdb
+C:\Users\Rifat\Desktop\c# Project\main 2\ParkingManagement\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.csprojAssemblyReference.cache
+C:\Users\Rifat\Desktop\c# Project\main 2\ParkingManagement\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.AddManager.resources
+C:\Users\Rifat\Desktop\c# Project\main 2\ParkingManagement\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.AddMember.resources
+C:\Users\Rifat\Desktop\c# Project\main 2\ParkingManagement\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.AddGuard.resources
+C:\Users\Rifat\Desktop\c# Project\main 2\ParkingManagement\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.Admin.resources
+C:\Users\Rifat\Desktop\c# Project\main 2\ParkingManagement\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.Manager.resources
+C:\Users\Rifat\Desktop\c# Project\main 2\ParkingManagement\ParkingManagement\ParkingManagement\obj\Debug\DemoCarParking.Login.resources
+C:\Users\Rifat\Desktop\c# Project\main 2\ParkingManagement\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.RemoveGuard.resources
+C:\Users\Rifat\Desktop\c# Project\main 2\ParkingManagement\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.RemoveManager.resources
+C:\Users\Rifat\Desktop\c# Project\main 2\ParkingManagement\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.RemoveMember.resources
+C:\Users\Rifat\Desktop\c# Project\main 2\ParkingManagement\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.Properties.Resources.resources
+C:\Users\Rifat\Desktop\c# Project\main 2\ParkingManagement\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.UpdateGuard.resources
+C:\Users\Rifat\Desktop\c# Project\main 2\ParkingManagement\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.UpdateManager.resources
+C:\Users\Rifat\Desktop\c# Project\main 2\ParkingManagement\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.UpdateMember.resources
+C:\Users\Rifat\Desktop\c# Project\main 2\ParkingManagement\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.csproj.GenerateResource.cache
+C:\Users\Rifat\Desktop\c# Project\main 2\ParkingManagement\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.csproj.CoreCompileInputs.cache
+C:\Users\Rifat\Desktop\c# Project\main 2\ParkingManagement\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.exe
+C:\Users\Rifat\Desktop\c# Project\main 2\ParkingManagement\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.pdb
+C:\Users\Rifat\Desktop\c# Project\main 2\ParkingManagement\ParkingManagement\ParkingManagement\obj\Debug\GuardManagement.GuardExitNormal.resources
+C:\Users\Rifat\Desktop\c# Project\main 2\ParkingManagement\ParkingManagement\ParkingManagement\obj\Debug\GuardManagement.GuardExitOfficial.resources
+C:\Users\Rifat\Desktop\c# Project\main 2\ParkingManagement\ParkingManagement\ParkingManagement\obj\Debug\GuardManagement.GuardForms.resources
+C:\Users\Rifat\Desktop\c# Project\main 2\ParkingManagement\ParkingManagement\ParkingManagement\obj\Debug\GuardManagement.GuardTaskEn.resources
+C:\Users\Rifat\Desktop\c# Project\main 2\ParkingManagement\ParkingManagement\ParkingManagement\obj\Debug\GuardManagement.GuardTaskOff.resources
+C:\Users\Rifat\Desktop\c# Project\main 2\ParkingManagement\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.ForgetPassword.resources
+C:\Users\Rifat\Desktop\c# Project\main 2\ParkingManagement\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.MemberDetails.resources
+C:\Users\Rifat\Desktop\c# Project\main 2\ParkingManagement\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.ParkingDetails.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.AddManager.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.AddGuard.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\ParkingManagement\ParkingManagement\obj\Debug\GuardManagement.GuardExitNormal.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\ParkingManagement\ParkingManagement\obj\Debug\GuardManagement.GuardExitOfficial.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\ParkingManagement\ParkingManagement\obj\Debug\GuardManagement.GuardForms.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\ParkingManagement\ParkingManagement\obj\Debug\GuardManagement.GuardTaskEn.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\ParkingManagement\ParkingManagement\obj\Debug\GuardManagement.GuardTaskOff.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.Manager.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\ParkingManagement\ParkingManagement\obj\Debug\DemoCarParking.Login.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.ParkingDetails.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.ForgetPassword.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.RemoveGuard.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.RemoveManager.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.UpdateGuard.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.UpdateManager.resources
+E:\ParkingManagement\ParkingManagement\bin\Debug\ParkingManagement.exe.config
+E:\ParkingManagement\ParkingManagement\bin\Debug\ParkingManagement.exe
+E:\ParkingManagement\ParkingManagement\bin\Debug\ParkingManagement.pdb
+E:\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.csprojAssemblyReference.cache
+E:\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.AddManager.resources
+E:\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.AddMember.resources
+E:\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.AddGuard.resources
+E:\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.Admin.resources
+E:\ParkingManagement\ParkingManagement\obj\Debug\GuardManagement.GuardExitNormal.resources
+E:\ParkingManagement\ParkingManagement\obj\Debug\GuardManagement.GuardExitOfficial.resources
+E:\ParkingManagement\ParkingManagement\obj\Debug\GuardManagement.GuardForms.resources
+E:\ParkingManagement\ParkingManagement\obj\Debug\GuardManagement.GuardTaskEn.resources
+E:\ParkingManagement\ParkingManagement\obj\Debug\GuardManagement.GuardTaskOff.resources
+E:\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.Manager.resources
+E:\ParkingManagement\ParkingManagement\obj\Debug\DemoCarParking.Login.resources
+E:\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.ParkingDetails.resources
+E:\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.ForgetPassword.resources
+E:\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.RemoveGuard.resources
+E:\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.RemoveManager.resources
+E:\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.RemoveMember.resources
+E:\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.Properties.Resources.resources
+E:\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.UpdateGuard.resources
+E:\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.UpdateManager.resources
+E:\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.UpdateMember.resources
+E:\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.csproj.GenerateResource.cache
+E:\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.csproj.CoreCompileInputs.cache
+E:\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.exe
+E:\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.pdb
+E:\AIUB\study\c#\Project123\ParkingManagement\ParkingManagement\bin\Debug\ParkingManagement.exe.config
+E:\AIUB\study\c#\Project123\ParkingManagement\ParkingManagement\bin\Debug\ParkingManagement.exe
+E:\AIUB\study\c#\Project123\ParkingManagement\ParkingManagement\bin\Debug\ParkingManagement.pdb
+E:\AIUB\study\c#\Project123\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.csprojAssemblyReference.cache
+E:\AIUB\study\c#\Project123\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.AddManager.resources
+E:\AIUB\study\c#\Project123\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.AddMember.resources
+E:\AIUB\study\c#\Project123\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.AddGuard.resources
+E:\AIUB\study\c#\Project123\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.Admin.resources
+E:\AIUB\study\c#\Project123\ParkingManagement\ParkingManagement\obj\Debug\GuardManagement.GuardExitNormal.resources
+E:\AIUB\study\c#\Project123\ParkingManagement\ParkingManagement\obj\Debug\GuardManagement.GuardExitOfficial.resources
+E:\AIUB\study\c#\Project123\ParkingManagement\ParkingManagement\obj\Debug\GuardManagement.GuardForms.resources
+E:\AIUB\study\c#\Project123\ParkingManagement\ParkingManagement\obj\Debug\GuardManagement.GuardTaskEn.resources
+E:\AIUB\study\c#\Project123\ParkingManagement\ParkingManagement\obj\Debug\GuardManagement.GuardTaskOff.resources
+E:\AIUB\study\c#\Project123\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.Manager.resources
+E:\AIUB\study\c#\Project123\ParkingManagement\ParkingManagement\obj\Debug\DemoCarParking.Login.resources
+E:\AIUB\study\c#\Project123\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.MemberDetails.resources
+E:\AIUB\study\c#\Project123\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.ParkingDetails.resources
+E:\AIUB\study\c#\Project123\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.ForgetPassword.resources
+E:\AIUB\study\c#\Project123\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.RemoveGuard.resources
+E:\AIUB\study\c#\Project123\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.RemoveManager.resources
+E:\AIUB\study\c#\Project123\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.RemoveMember.resources
+E:\AIUB\study\c#\Project123\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.Properties.Resources.resources
+E:\AIUB\study\c#\Project123\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.UpdateGuard.resources
+E:\AIUB\study\c#\Project123\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.UpdateManager.resources
+E:\AIUB\study\c#\Project123\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.UpdateMember.resources
+E:\AIUB\study\c#\Project123\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.csproj.GenerateResource.cache
+E:\AIUB\study\c#\Project123\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.csproj.CoreCompileInputs.cache
+E:\AIUB\study\c#\Project123\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.exe
+E:\AIUB\study\c#\Project123\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.pdb
+C:\Users\Rifat\Downloads\ParkingManagement-Sharon\ParkingManagement\ParkingManagement\bin\Debug\ParkingManagement.exe.config
+C:\Users\Rifat\Downloads\ParkingManagement-Sharon\ParkingManagement\ParkingManagement\bin\Debug\ParkingManagement.exe
+C:\Users\Rifat\Downloads\ParkingManagement-Sharon\ParkingManagement\ParkingManagement\bin\Debug\ParkingManagement.pdb
+C:\Users\Rifat\Downloads\ParkingManagement-Sharon\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.csprojAssemblyReference.cache
+C:\Users\Rifat\Downloads\ParkingManagement-Sharon\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.AddManager.resources
+C:\Users\Rifat\Downloads\ParkingManagement-Sharon\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.AddMember.resources
+C:\Users\Rifat\Downloads\ParkingManagement-Sharon\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.AddGuard.resources
+C:\Users\Rifat\Downloads\ParkingManagement-Sharon\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.Admin.resources
+C:\Users\Rifat\Downloads\ParkingManagement-Sharon\ParkingManagement\ParkingManagement\obj\Debug\GuardManagement.GuardExitNormal.resources
+C:\Users\Rifat\Downloads\ParkingManagement-Sharon\ParkingManagement\ParkingManagement\obj\Debug\GuardManagement.GuardExitOfficial.resources
+C:\Users\Rifat\Downloads\ParkingManagement-Sharon\ParkingManagement\ParkingManagement\obj\Debug\GuardManagement.GuardForms.resources
+C:\Users\Rifat\Downloads\ParkingManagement-Sharon\ParkingManagement\ParkingManagement\obj\Debug\GuardManagement.GuardTaskEn.resources
+C:\Users\Rifat\Downloads\ParkingManagement-Sharon\ParkingManagement\ParkingManagement\obj\Debug\GuardManagement.GuardTaskOff.resources
+C:\Users\Rifat\Downloads\ParkingManagement-Sharon\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.Manager.resources
+C:\Users\Rifat\Downloads\ParkingManagement-Sharon\ParkingManagement\ParkingManagement\obj\Debug\DemoCarParking.Login.resources
+C:\Users\Rifat\Downloads\ParkingManagement-Sharon\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.MemberDetails.resources
+C:\Users\Rifat\Downloads\ParkingManagement-Sharon\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.ParkingDetails.resources
+C:\Users\Rifat\Downloads\ParkingManagement-Sharon\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.ForgetPassword.resources
+C:\Users\Rifat\Downloads\ParkingManagement-Sharon\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.RemoveGuard.resources
+C:\Users\Rifat\Downloads\ParkingManagement-Sharon\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.RemoveManager.resources
+C:\Users\Rifat\Downloads\ParkingManagement-Sharon\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.RemoveMember.resources
+C:\Users\Rifat\Downloads\ParkingManagement-Sharon\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.Properties.Resources.resources
+C:\Users\Rifat\Downloads\ParkingManagement-Sharon\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.UpdateGuard.resources
+C:\Users\Rifat\Downloads\ParkingManagement-Sharon\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.UpdateManager.resources
+C:\Users\Rifat\Downloads\ParkingManagement-Sharon\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.UpdateMember.resources
+C:\Users\Rifat\Downloads\ParkingManagement-Sharon\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.csproj.GenerateResource.cache
+C:\Users\Rifat\Downloads\ParkingManagement-Sharon\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.csproj.CoreCompileInputs.cache
+C:\Users\Rifat\Downloads\ParkingManagement-Sharon\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.exe
+C:\Users\Rifat\Downloads\ParkingManagement-Sharon\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.pdb
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.AllMembers.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.Design.MemberDetails.resources
+E:\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.AllMembers.resources
+E:\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.Design.MemberDetails.resources
+E:\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.Design.chat.resources
+D:\OneDrive - American International University-Bangladesh\Study Zone\5th Semester\OOP2\Project\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.Design.chat.resources
+C:\Users\Ankur Saha Bindu\Downloads\Compressed\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.csprojAssemblyReference.cache
+C:\Users\Ankur Saha Bindu\Downloads\Compressed\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.AddManager.resources
+C:\Users\Ankur Saha Bindu\Downloads\Compressed\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.AddMember.resources
+C:\Users\Ankur Saha Bindu\Downloads\Compressed\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.AddGuard.resources
+C:\Users\Ankur Saha Bindu\Downloads\Compressed\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.Admin.resources
+C:\Users\Ankur Saha Bindu\Downloads\Compressed\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.Design.chat.resources
+C:\Users\Ankur Saha Bindu\Downloads\Compressed\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\GuardManagement.GuardForms.resources
+C:\Users\Ankur Saha Bindu\Downloads\Compressed\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.Manager.resources
+C:\Users\Ankur Saha Bindu\Downloads\Compressed\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\DemoCarParking.Login.resources
+C:\Users\Ankur Saha Bindu\Downloads\Compressed\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.AllMembers.resources
+C:\Users\Ankur Saha Bindu\Downloads\Compressed\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.Design.MemberDetails.resources
+C:\Users\Ankur Saha Bindu\Downloads\Compressed\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.ParkingDetails.resources
+C:\Users\Ankur Saha Bindu\Downloads\Compressed\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.ForgetPassword.resources
+C:\Users\Ankur Saha Bindu\Downloads\Compressed\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.RemoveGuard.resources
+C:\Users\Ankur Saha Bindu\Downloads\Compressed\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.RemoveManager.resources
+C:\Users\Ankur Saha Bindu\Downloads\Compressed\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.RemoveMember.resources
+C:\Users\Ankur Saha Bindu\Downloads\Compressed\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.Properties.Resources.resources
+C:\Users\Ankur Saha Bindu\Downloads\Compressed\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.UpdateGuard.resources
+C:\Users\Ankur Saha Bindu\Downloads\Compressed\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.UpdateManager.resources
+C:\Users\Ankur Saha Bindu\Downloads\Compressed\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.UpdateMember.resources
+C:\Users\Ankur Saha Bindu\Downloads\Compressed\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.csproj.GenerateResource.cache
+C:\Users\Ankur Saha Bindu\Downloads\Compressed\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.csproj.CoreCompileInputs.cache
+C:\Users\Ankur Saha Bindu\Downloads\Compressed\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.exe
+C:\Users\Ankur Saha Bindu\Downloads\Compressed\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.pdb
+C:\Users\Rifat\Desktop\Ankur\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.csprojAssemblyReference.cache
+C:\Users\Rifat\Desktop\Ankur\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.AddManager.resources
+C:\Users\Rifat\Desktop\Ankur\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.AddMember.resources
+C:\Users\Rifat\Desktop\Ankur\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.AddGuard.resources
+C:\Users\Rifat\Desktop\Ankur\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.Admin.resources
+C:\Users\Rifat\Desktop\Ankur\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.Design.chat.resources
+C:\Users\Rifat\Desktop\Ankur\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\GuardManagement.GuardExitNormal.resources
+C:\Users\Rifat\Desktop\Ankur\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\GuardManagement.GuardExitOfficial.resources
+C:\Users\Rifat\Desktop\Ankur\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\GuardManagement.GuardForms.resources
+C:\Users\Rifat\Desktop\Ankur\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\GuardManagement.GuardTaskEn.resources
+C:\Users\Rifat\Desktop\Ankur\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\GuardManagement.GuardTaskOff.resources
+C:\Users\Rifat\Desktop\Ankur\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.Manager.resources
+C:\Users\Rifat\Desktop\Ankur\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\DemoCarParking.Login.resources
+C:\Users\Rifat\Desktop\Ankur\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.AllMembers.resources
+C:\Users\Rifat\Desktop\Ankur\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.Design.MemberDetails.resources
+C:\Users\Rifat\Desktop\Ankur\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.ParkingDetails.resources
+C:\Users\Rifat\Desktop\Ankur\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.ForgetPassword.resources
+C:\Users\Rifat\Desktop\Ankur\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.Design.Print.resources
+C:\Users\Rifat\Desktop\Ankur\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.RemoveGuard.resources
+C:\Users\Rifat\Desktop\Ankur\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.RemoveManager.resources
+C:\Users\Rifat\Desktop\Ankur\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.RemoveMember.resources
+C:\Users\Rifat\Desktop\Ankur\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.Properties.Resources.resources
+C:\Users\Rifat\Desktop\Ankur\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.UpdateGuard.resources
+C:\Users\Rifat\Desktop\Ankur\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.UpdateManager.resources
+C:\Users\Rifat\Desktop\Ankur\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.UpdateMember.resources
+C:\Users\Rifat\Desktop\Ankur\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.csproj.GenerateResource.cache
+C:\Users\Rifat\Desktop\Ankur\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.csproj.CoreCompileInputs.cache
+C:\Users\Rifat\Desktop\Ankur\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.exe
+C:\Users\Rifat\Desktop\Ankur\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.pdb
+C:\Users\Rifat\Desktop\Ankur\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\bin\Debug\ParkingManagement.exe.config
+C:\Users\Rifat\Desktop\Ankur\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\bin\Debug\ParkingManagement.exe
+C:\Users\Rifat\Desktop\Ankur\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\bin\Debug\ParkingManagement.pdb
+C:\Users\Rifat\Desktop\project\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\bin\Debug\ParkingManagement.exe.config
+C:\Users\Rifat\Desktop\project\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\bin\Debug\ParkingManagement.exe
+C:\Users\Rifat\Desktop\project\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\bin\Debug\ParkingManagement.pdb
+C:\Users\Rifat\Desktop\project\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.csprojAssemblyReference.cache
+C:\Users\Rifat\Desktop\project\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.AddManager.resources
+C:\Users\Rifat\Desktop\project\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.AddMember.resources
+C:\Users\Rifat\Desktop\project\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.AddGuard.resources
+C:\Users\Rifat\Desktop\project\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.Admin.resources
+C:\Users\Rifat\Desktop\project\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.Design.chat.resources
+C:\Users\Rifat\Desktop\project\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\GuardManagement.GuardExitNormal.resources
+C:\Users\Rifat\Desktop\project\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\GuardManagement.GuardExitOfficial.resources
+C:\Users\Rifat\Desktop\project\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\GuardManagement.GuardForms.resources
+C:\Users\Rifat\Desktop\project\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\GuardManagement.GuardTaskEn.resources
+C:\Users\Rifat\Desktop\project\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\GuardManagement.GuardTaskOff.resources
+C:\Users\Rifat\Desktop\project\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.Manager.resources
+C:\Users\Rifat\Desktop\project\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\DemoCarParking.Login.resources
+C:\Users\Rifat\Desktop\project\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.AllMembers.resources
+C:\Users\Rifat\Desktop\project\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.Design.MemberDetails.resources
+C:\Users\Rifat\Desktop\project\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.ParkingDetails.resources
+C:\Users\Rifat\Desktop\project\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.ForgetPassword.resources
+C:\Users\Rifat\Desktop\project\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.Design.Print.resources
+C:\Users\Rifat\Desktop\project\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.RemoveGuard.resources
+C:\Users\Rifat\Desktop\project\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.RemoveManager.resources
+C:\Users\Rifat\Desktop\project\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.RemoveMember.resources
+C:\Users\Rifat\Desktop\project\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.Properties.Resources.resources
+C:\Users\Rifat\Desktop\project\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.UpdateGuard.resources
+C:\Users\Rifat\Desktop\project\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.UpdateManager.resources
+C:\Users\Rifat\Desktop\project\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.UpdateMember.resources
+C:\Users\Rifat\Desktop\project\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.csproj.GenerateResource.cache
+C:\Users\Rifat\Desktop\project\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.csproj.CoreCompileInputs.cache
+C:\Users\Rifat\Desktop\project\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.exe
+C:\Users\Rifat\Desktop\project\New folder\ParkingManagement Jisunxxx\ParkingManagement Jisunxxx\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.pdb

@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{16059B90-6C63-43A9-89A7-05037B76329A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ParkingManagement</RootNamespace>
+    <AssemblyName>ParkingManagement</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataAccess\DbAccess.cs" />
+    <Compile Include="Design\AddGuard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Design\AddGuard.Designer.cs">
+      <DependentUpon>AddGuard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Design\AddManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Design\AddManager.Designer.cs">
+      <DependentUpon>AddManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Design\Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Design\Admin.Designer.cs">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Design\chat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Design\chat.Designer.cs">
+      <DependentUpon>chat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Design\GuardExitNormal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Design\GuardExitNormal.designer.cs">
+      <DependentUpon>GuardExitNormal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Design\GuardExitOfficial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Design\GuardExitOfficial.designer.cs">
+      <DependentUpon>GuardExitOfficial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Design\GuardForms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Design\GuardForms.designer.cs">
+      <DependentUpon>GuardForms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Design\GuardTaskEn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Design\GuardTaskEn.designer.cs">
+      <DependentUpon>GuardTaskEn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Design\GuardTaskOff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Design\GuardTaskOff.designer.cs">
+      <DependentUpon>GuardTaskOff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Design\Manager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Design\Manager.Designer.cs">
+      <DependentUpon>Manager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Design\AddMember.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Design\AddMember.Designer.cs">
+      <DependentUpon>AddMember.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Design\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Design\Login.designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Design\AllMembers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Design\AllMembers.Designer.cs">
+      <DependentUpon>AllMembers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Design\MemberDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Design\MemberDetails.Designer.cs">
+      <DependentUpon>MemberDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Design\ParkingDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Design\ParkingDetails.Designer.cs">
+      <DependentUpon>ParkingDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Design\PassChange.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Design\PassChange.designer.cs">
+      <DependentUpon>PassChange.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Design\Print.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Design\Print.designer.cs">
+      <DependentUpon>Print.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Design\RemoveGuard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Design\RemoveGuard.Designer.cs">
+      <DependentUpon>RemoveGuard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Design\RemoveManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Design\RemoveManager.Designer.cs">
+      <DependentUpon>RemoveManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Design\UpdateGuard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Design\UpdateGuard.Designer.cs">
+      <DependentUpon>UpdateGuard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Design\UpdateManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Design\UpdateManager.Designer.cs">
+      <DependentUpon>UpdateManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Design\UpdateMember.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Design\UpdateMember.Designer.cs">
+      <DependentUpon>UpdateMember.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Design\RemoveMember.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Design\RemoveMember.Designer.cs">
+      <DependentUpon>RemoveMember.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parking Management\AdminLogic.cs" />
+    <Compile Include="Parking Management\Entry.cs" />
+    <Compile Include="Parking Management\GuardLogic.cs" />
+    <Compile Include="Parking Management\ManagerLogic.cs" />
+    <Compile Include="Parking Management\Officials.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Design\AddManager.resx">
+      <DependentUpon>AddManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Design\AddMember.resx">
+      <DependentUpon>AddMember.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Design\AddGuard.resx">
+      <DependentUpon>AddGuard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Design\Admin.resx">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Design\chat.resx">
+      <DependentUpon>chat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Design\GuardExitNormal.resx">
+      <DependentUpon>GuardExitNormal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Design\GuardExitOfficial.resx">
+      <DependentUpon>GuardExitOfficial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Design\GuardForms.resx">
+      <DependentUpon>GuardForms.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Design\GuardTaskEn.resx">
+      <DependentUpon>GuardTaskEn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Design\GuardTaskOff.resx">
+      <DependentUpon>GuardTaskOff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Design\Manager.resx">
+      <DependentUpon>Manager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Design\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Design\AllMembers.resx">
+      <DependentUpon>AllMembers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Design\MemberDetails.resx">
+      <DependentUpon>MemberDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Design\ParkingDetails.resx">
+      <DependentUpon>ParkingDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Design\PassChange.resx">
+      <DependentUpon>PassChange.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Design\Print.resx">
+      <DependentUpon>Print.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Design\RemoveGuard.resx">
+      <DependentUpon>RemoveGuard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Design\RemoveManager.resx">
+      <DependentUpon>RemoveManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Design\RemoveMember.resx">
+      <DependentUpon>RemoveMember.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Design\UpdateGuard.resx">
+      <DependentUpon>UpdateGuard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Design\UpdateManager.resx">
+      <DependentUpon>UpdateManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Design\UpdateMember.resx">
+      <DependentUpon>UpdateMember.cs</DependentUpon>
+    </EmbeddedResource>
+    <Content Include="fonts\fontawesome-webfont.eot" />
+    <Content Include="fonts\fontawesome-webfont.ttf" />
+    <Content Include="fonts\fontawesome-webfont.woff" />
+    <Content Include="fonts\fontawesome-webfont.woff2" />
+    <Content Include="fonts\FontAwesome.otf" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Content\font-awesome.css" />
+    <Content Include="Content\font-awesome.min.css" />
+    <Content Include="fonts\fontawesome-webfont.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
